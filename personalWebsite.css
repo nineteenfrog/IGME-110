@@ -1,0 +1,31 @@
+
+p{
+    margin: 100px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+    vertical-align:bottom;
+}
+body{
+    background: orange;
+    border: 15px;
+    border-color: aqua;
+
+}
+h1{
+    margin: ;
+    align-content: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 50px
+}
+body{
+    text-indent: 10;
+}
+footer{
+    border: solid;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-align: right;
+    margin-right: 20px
+}
+img{
+    margin-bottom: 10px;
+}
