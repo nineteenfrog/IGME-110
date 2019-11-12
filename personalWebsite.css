@@ -34,7 +34,7 @@ button{
     bottom: 0;
     right: 0px;
     left: 0px;
-    background-color: #E60106;
+    background-color: #191919;
     border: none;
     color: white;
     padding: 10px 5% 10px 10%;
@@ -44,7 +44,7 @@ button{
 }
 button:hover{
     transition-duration: .4s;
-    background-color: #191919;
+    background-color: purple;
     cursor: pointer;
 }
 .next{
